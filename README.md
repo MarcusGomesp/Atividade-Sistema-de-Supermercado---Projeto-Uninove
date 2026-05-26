@@ -2,6 +2,10 @@
 
 Sistema de gerenciamento de estoque e de vendas desenvolvido em **Windows Forms com C# e MySQL**, criado para facilitar o controle de produtos, a realização de vendas com aplicação de descontos e a emissão de notas fiscais digitais.
 
+
+<img width="1176" height="677" alt="image" src="https://github.com/user-attachments/assets/ed17dc2b-dde1-4a5e-9a45-d32845669851" />
+
+
 ---
 
 ## Integrantes:
@@ -209,3 +213,14 @@ O projeto contém:
   - Manipulação de arquivos
 
 ---
+ # sistema em funcionamento: 
+
+<img width="1182" height="676" alt="image" src="https://github.com/user-attachments/assets/a5c0dfa2-8890-4114-bd54-d71cea716960" />
+<img width="1177" height="687" alt="image" src="https://github.com/user-attachments/assets/9b4bd2de-a275-4fb8-b1cd-4d84ba6d4363" />
+<img width="1181" height="681" alt="image" src="https://github.com/user-attachments/assets/3dbeee61-efc7-4301-b38f-5a4d3eb92dd9" />
+
+
+
+
+
+
