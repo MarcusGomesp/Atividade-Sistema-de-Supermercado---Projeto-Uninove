@@ -1,0 +1,279 @@
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.deps.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.runtimeconfig.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Form1.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Properties.Resources.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\Trabalho.1FBAD070.Up2Date
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\refint\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\ref\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\Trabalho Final — Sistema de Supermercado\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Compras.resources
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\refint\TrabalhoFinal.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.exe
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.deps.json
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.runtimeconfig.json
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Compras.resources
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Form1.resources
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Properties.Resources.resources
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.GenerateResource.cache
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\Trabalho.1FBAD070.Up2Date
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\ref\TrabalhoFinal.dll
+C:\Users\sabry\Downloads\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.NotaFiscal.resources
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.exe
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.deps.json
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.runtimeconfig.json
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Compras.resources
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Form1.resources
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.NotaFiscal.resources
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Properties.Resources.resources
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.GenerateResource.cache
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\Trabalho.1FBAD070.Up2Date
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\refint\TrabalhoFinal.dll
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\marcu\Downloads\TrabalhoFinal_terca\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\ref\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.deps.json
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.runtimeconfig.json
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Compras.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Form1.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.NotaFiscal.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.Properties.Resources.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\Trabalho.1FBAD070.Up2Date
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\refint\TrabalhoFinal.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0-windows\ref\TrabalhoFinal.dll
